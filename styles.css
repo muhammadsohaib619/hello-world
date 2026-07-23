@@ -3,3 +3,8 @@ h1{
     text-align: center;
     background-color: palegreen;
 }
+h2{
+    font-family: 'Segoe UI';
+    text-align: center;
+    background-color: rgb(242, 8, 238);
+}
